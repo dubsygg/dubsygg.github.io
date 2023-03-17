@@ -1,0 +1,16 @@
+body {
+	margin: auto;
+	max-width: 100ch;
+	padding: 1ch 2ch;
+    font-family: "Fira Mono";
+}
+
+@media(prefers-color-scheme: dark) {
+	body {
+		background-color: #303030;
+		color: #e6e6e6;
+	}
+	a {
+		color: #4ec271;
+	}
+}
