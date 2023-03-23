@@ -3,8 +3,15 @@ body {
 	max-width: 100ch;
 	padding: 1ch 2ch;
     font-family: "Fira Mono";
+	background-color: #333333;
+	color: #cccccc;
 }
 
+a {
+	color: #4ec271;
+}
+
+/*
 @media(prefers-color-scheme: dark) {
 	body {
 		background-color: #333333;
@@ -14,3 +21,4 @@ body {
 		color: #4ec271;
 	}
 }
+*/
